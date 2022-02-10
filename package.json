@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "main": "app.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "headers": "^0.9.6",
+    "node-fetch": "^3.2.0",
+    "require": "^2.4.20"
+  },
+  "type": "module"
+}
